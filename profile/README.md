@@ -15,6 +15,12 @@ Small, sharp tools for the layer under the agent: runtimes, auth and gateways, b
 
 <sub>This list regenerates from the org's public repos on every push and once a day.</sub>
 
+### Also by the maintainer
+
+- [tuitree](https://github.com/jonathancostin/tuitree): a terminal dashboard for git worktrees and GitHub PRs. With one worktree per coding agent, it shows which are ahead, behind or conflicted.
+- [runtest](https://github.com/jonathancostin/runtest): put it in front of an agent's test command (`runtest npm test`) and macOS runs it at background priority.
+- [fan-curve](https://github.com/jonathancostin/fan-curve): a macOS menu-bar app that sets fan speed from CPU temperature.
+
 ### How we build
 
 - **One job per tool.** Small enough to read in an afternoon, composable with the rest.
