@@ -9,6 +9,7 @@ Small, sharp tools for the layer under the agent: runtimes, auth and gateways, b
 <!-- PROJECTS:START -->
 | Project | What it does | Lang |
 |---|---|---|
+| [**nod**](https://github.com/8thlyr/nod) | A human approval queue for AI agents, kept in a markdown file. Agents ask, you nod, the blocked command continues. CLI + MCP server. | Go |
 | [**studio-template**](https://github.com/8thlyr/studio-template) | Starter for 8thlyr agent-infra projects: Python, TypeScript or Go with CI, releases, Dependabot and a vhs demo, green on first push _(template)_ | Shell |
 <!-- PROJECTS:END -->
 
