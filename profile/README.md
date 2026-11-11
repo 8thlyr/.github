@@ -9,10 +9,9 @@ Small, sharp tools for the layer under the agent: runtimes, auth and gateways, b
 <!-- PROJECTS:START -->
 | Project | What it does | Lang |
 |---|---|---|
-| [**leakgate**](https://github.com/8thlyr/leakgate) | Pre-commit gate for the secrets AI coding agents write into config: blocks .claude/settings.local.json-style leaks gitleaks misses. | Go |
-| [**seats**](https://github.com/8thlyr/seats) | Run your AI agents as seats in an org, kept in plain files: a charter, one approvals queue, a friction log and a nightly manager sweep. No server. | Python |
-| [**nod**](https://github.com/8thlyr/nod) | A human approval queue for AI agents, kept in a markdown file. Agents ask, you nod, the blocked command continues. CLI + MCP server. | Go |
-| [**studio-template**](https://github.com/8thlyr/studio-template) | Starter for 8thlyr agent-infra projects: Python, TypeScript or Go with CI, releases, Dependabot and a vhs demo, green on first push _(template)_ | Python |
+| [**tuitree**](https://github.com/8thlyr/tuitree) | Terminal dashboard for git worktrees and GitHub PRs, built for running parallel coding agents | Rust |
+| [**fan-curve**](https://github.com/8thlyr/fan-curve) | Native macOS temperature-based fan curve controller | Swift |
+| [**runtest**](https://github.com/8thlyr/runtest) | Run coding-agent test commands at background priority on macOS (local/auto modes; remote routing planned) | Python |
 <!-- PROJECTS:END -->
 
 <sub>This list regenerates from the org's public repos on every push and once a day.</sub>
