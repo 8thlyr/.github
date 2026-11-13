@@ -17,4 +17,3 @@ Open-source developer tools by [Jonathan Costin](https://github.com/jonathancost
 ### Contact
 
 Open an issue on the repo it concerns. Bug reports and pull requests are welcome.
-````
