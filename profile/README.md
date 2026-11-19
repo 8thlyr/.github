@@ -9,8 +9,8 @@ Open-source developer tools by [Jonathan Costin](https://github.com/jonathancost
 |---|---|---|
 | [**tuitree**](https://github.com/8thlyr/tuitree) | Terminal dashboard for git worktrees and GitHub pull requests | Rust |
 | [**factobot**](https://github.com/8thlyr/factobot) | A Factorio benchmark for AI agents: real-time play through a CLI under human player limits | Python |
-| [**fan-curve**](https://github.com/8thlyr/fan-curve) | macOS menu-bar fan controller driven by a temperature curve | Swift |
 | [**runtest**](https://github.com/8thlyr/runtest) | Run test commands at background priority on macOS | Python |
+| [**fan-curve**](https://github.com/8thlyr/fan-curve) | macOS menu-bar fan controller driven by a temperature curve | Swift |
 <!-- PROJECTS:END -->
 
 <sub>This list is generated from the org's public repos.</sub>
